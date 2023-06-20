@@ -17,7 +17,7 @@ O projeto restaurant tem como funcionlidade ajudar um restaurat a gerar seus car
 - Praticar os conhecimentos de testes de software;
 - Praticar os conhecimentos de orientação a objetos.
 
-# Como usar
+## Como usar
 
 
 - Para testar este projeto, precisará das seguintes ferramentas instaladas:
